@@ -1,0 +1,2 @@
+# The Hello Python example requires only Python 3 and its standard library.
+# No third-party dependencies are required.
